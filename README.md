@@ -55,7 +55,6 @@ answer questions 3.1 - 3.4
 
 ## 6. Analysis of Results
 
-answer question 6
 6.1 Unsynchronized counter is the fastest, Using ReentrantLock is the slowest.                                                                                         
 6.2 I think the best solution can be applied to the broadest range of problems is using AtomicCounter because it will work completely by itself without any synchronization.
 
